@@ -1,4 +1,6 @@
 .venv/
+conf/
+import/
 data/
 logs/
 neo4j/
